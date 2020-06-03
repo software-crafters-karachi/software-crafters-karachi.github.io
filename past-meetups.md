@@ -2,11 +2,11 @@
 
 ## :electric_plug: 2020.05.30 - SOLID Principles
 
-**Recording:** https://youtu.be/oGCL8eEFAjw
+**Recording:** [SOLID Principles - Software Crafters Karachi, Meet-up #7](https://youtu.be/oGCL8eEFAjw)
 
-**Kata:** https://github.com/karachi-katas/Racing-Car-Leaderboard-Kata
+**Kata:** [Racing Car Leaderboard Kata](https://github.com/karachi-katas/Racing-Car-Leaderboard-Kata)
 
-**Slides:** https://docs.google.com/presentation/d/1KyMSpkbfFmq5X5d1j2pF6jtshjdeeEsp-0xGMU1RA-4
+**Slides:** [Presentation Meetup#7](https://docs.google.com/presentation/d/1KyMSpkbfFmq5X5d1j2pF6jtshjdeeEsp-0xGMU1RA-4)
 
 ## :factory: 2020.05.23 - Design Patterns
 
@@ -16,11 +16,11 @@ Teams then picked 1 pattern each and proceeded to breakout rooms to research & i
 
 Finally, teams presented their pattern & kata to the larger group.
 
-**Recording:** https://youtu.be/V4A0rs7MO-w
+**Recording:** [Design Patterns - Software Crafters Karachi, Meet-up #6](https://youtu.be/V4A0rs7MO-w)
 
-**Kata:** https://github.com/karachi-katas/refactoring-kata
+**Kata:** [Design Patterns Kata](https://github.com/karachi-katas/refactoring-kata)
 
-**Slides:** https://docs.google.com/presentation/d/1EfAvBSQ-DTsUftXQpCv648_rbwAOEGpVsa8emvpbit0
+**Slides:** [Presentation Meetup#6](https://docs.google.com/presentation/d/1EfAvBSQ-DTsUftXQpCv648_rbwAOEGpVsa8emvpbit0)
 
 ## :zap: 2020.05.16 - Lightning Talks & Lean Coffee
 
@@ -30,26 +30,26 @@ Lightning talks:
 
 ## :space_invader: 2020.05.09 - Code Smells, 'Tell, Don't Ask'
 
-**Recording:** https://youtu.be/j5xkBr2plNI
+**Recording:** [Tell, Don't Ask - Software Crafters Karachi, Meetup #4](https://youtu.be/j5xkBr2plNI)
 
-**Kata:** https://github.com/lamakq/tell-dont-ask-kata
+**Kata:** [Tell, Don't Ask Kata](https://github.com/lamakq/tell-dont-ask-kata)
 
-**Slides:** https://docs.google.com/presentation/d/1EfAvBSQ-DTsUftXQpCv648_rbwAOEGpVsa8emvpbit0
+**Slides:** [Presentation Meetup#4](https://docs.google.com/presentation/d/1EfAvBSQ-DTsUftXQpCv648_rbwAOEGpVsa8emvpbit0)
 
 ## :woman_astronaut: 2020.05.02 - Refactoring
 
-**Recording:** https://youtu.be/VDN8FIXqFZg
+**Recording:** [Refactoring - Software Crafters Karachi, Meetup #3](https://youtu.be/VDN8FIXqFZg)
 
-**Kata:** https://github.com/lamakq/Tennis-Refactoring-Kata
+**Kata:** [Tennis Refactoring Kata](https://github.com/lamakq/Tennis-Refactoring-Kata)
 
-**Slides:** https://docs.google.com/presentation/d/1pAmc2hAZi1oCvWLteH3irO09KFPlzWxXXo4Nqp5-1jU
+**Slides:** [Presentation Meetup#3](https://docs.google.com/presentation/d/1pAmc2hAZi1oCvWLteH3irO09KFPlzWxXXo4Nqp5-1jU)
 
 ## :artificial_satellite: 2020.04.25 - TDD, Object Calisthenics
 
-**Kata:** https://github.com/Jozeb/bowling-kata-tdd
+**Kata:** [Bowling Kata](https://github.com/Jozeb/bowling-kata-tdd)
 
-**Slides:** https://docs.google.com/presentation/d/1UWcJugHg2OWpmZAfxZ-au8E7mRpTxvXMO7vNR4GUqUE
+**Slides:** [Presentation Meetup#2](https://docs.google.com/presentation/d/1UWcJugHg2OWpmZAfxZ-au8E7mRpTxvXMO7vNR4GUqUE)
 
 ## :rocket: 2020.04.18 - Pair-Programming, TDD
 
-**Kata:** https://github.com/Jozeb/tic_tac_toe_kata
+**Kata:** [Tic Tac Toe](https://github.com/Jozeb/tic_tac_toe_kata)
