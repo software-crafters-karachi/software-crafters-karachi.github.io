@@ -23,6 +23,7 @@ We learn about topics such as:
 - Clean Code
 - Test-Driven Development
 - Design Principles
+- Refactoring
 - Pair Programming
 - Continuous Delivery
 
