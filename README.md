@@ -1,4 +1,4 @@
-This is a community for those who care and are proud of what they do. For those developers, regardless how experienced they are, who want to improve and master their craft.
+> This is a community for those who care and are proud of what they do. For those, regardless how experienced they are, who want to improve and master their craft.
 
 # Who are we?
 We are an open community of people learning to write & deliver better software. We believe learning together and helping each other is the fastest way to grow.
