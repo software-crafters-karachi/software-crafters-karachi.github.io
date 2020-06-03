@@ -4,7 +4,7 @@
 
 **Date 2020.05.30**
 
-:video_camera: [Recording](https://youtu.be/oGCL8eEFAjw), ![alt text](judo.png "Logo Title Text 1"), :tv: [Slides](https://docs.google.com/presentation/d/1KyMSpkbfFmq5X5d1j2pF6jtshjdeeEsp-0xGMU1RA-4) 
+:video_camera: [Recording](https://youtu.be/oGCL8eEFAjw), ![alt text](judo.png "Logo Title Text 1")[Kata](https://github.com/karachi-katas/Racing-Car-Leaderboard-Kata), :tv: [Slides](https://docs.google.com/presentation/d/1KyMSpkbfFmq5X5d1j2pF6jtshjdeeEsp-0xGMU1RA-4) 
 
 **Recording:** [SOLID Principles - Software Crafters Karachi, Meet-up #7](https://youtu.be/oGCL8eEFAjw)
 
