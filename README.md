@@ -13,7 +13,7 @@ Great software can only be delivered with close collaboration of everyone involv
 Students to professionals, and everyone in between.
 
 # How can I join?
-Join our **[Facebook group](https://www.facebook.com/groups/570463523588860)**, and you are in!
+Join our [Facebook group](https://www.facebook.com/groups/570463523588860), and you are in!
 
 The next step is to join us in one of our meet-ups. Watch out for meet-ups on our Facebook page.
 
