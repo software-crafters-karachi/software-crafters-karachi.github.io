@@ -33,10 +33,12 @@ Katas are a form of learning by practice. Katas allow us to experiment practices
 
 We usually do our katas in pairs (or groups). Pair programming maximizes knowledge sharing, focus and quality of work. You can find more kata best practices & pair programming in our [Kata Guide](/kata-guide).
 
-# Learning Guide
+# Resources
 
-:book: Resources to help you master the craft: https://github.com/software-crafters-karachi/learning-guide
+## Past Meet-ups
 
-# Past Meet-ups
+Recordings & resources from our past meet-ups are available [here](/past-meetups).
 
-Recordings & resources from our past meet-ups are available [here](/past-meetups)
+## Learning Guide
+
+:book: We've put together some resources for you to explore: [Learning Guide for Software Crafters](https://github.com/software-crafters-karachi/learning-guide).
