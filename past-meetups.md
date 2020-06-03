@@ -1,6 +1,10 @@
 # Past Meet-ups
 
-## :electric_plug: 2020.05.30 - SOLID Principles
+## :electric_plug: #7 - SOLID Principles
+
+**Date 2020.05.30**
+
+:video_camera: [Recording](https://youtu.be/oGCL8eEFAjw), ![alt text](judo.png =250x "Logo Title Text 1"), :tv: [Slides](https://docs.google.com/presentation/d/1KyMSpkbfFmq5X5d1j2pF6jtshjdeeEsp-0xGMU1RA-4) 
 
 **Recording:** [SOLID Principles - Software Crafters Karachi, Meet-up #7](https://youtu.be/oGCL8eEFAjw)
 
@@ -8,7 +12,11 @@
 
 **Slides:** [Presentation Meetup#7](https://docs.google.com/presentation/d/1KyMSpkbfFmq5X5d1j2pF6jtshjdeeEsp-0xGMU1RA-4)
 
-## :factory: 2020.05.23 - Design Patterns
+## :factory: #6 - Design Patterns
+
+**Date** 2020.05.23
+
+:video_camera: [Recording](https://youtu.be/oGCL8eEFAjw), ![alt text](judo.png =250x "Logo Title Text 1"), :mag: [Slides](https://docs.google.com/presentation/d/1KyMSpkbfFmq5X5d1j2pF6jtshjdeeEsp-0xGMU1RA-4)
 
 We started with an initial discussion on design patterns, their advantages & pit-falls.
 
