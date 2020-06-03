@@ -1,67 +1,41 @@
-# Software Crafters Karachi - Meet-ups
-
 This is a community for those who care and are proud of what they do. For those developers, regardless how experienced they are, who want to improve and master their craft.
 
-## Upcoming Events
+# Who are we?
+We are an open community of people learning to write & deliver better software. We believe learning together and helping each other is the fastest way for ourselves to grow.
 
-Events are created on this [Facebook group](https://www.facebook.com/groups/570463523588860).
+# Who can join?
+Everyone involved in any stage of the softwares lifecycle: customers, developers, mentors/coaches...
 
-## Learning Guide
+**We encourage diversity:** great software can only be delivered with close collaboration of everyone involved at all stages of software development.
+
+**We encourage people of all levels of experience to join:** students to professionals, and everyone in between.
+
+# How can I join?
+Join our [Facebook group](https://www.facebook.com/groups/570463523588860), and you are in!
+
+The next step is to join us in one of our meet-ups. Watch out for meet-ups on our Facebook page.
+
+# What will I learn?
+We learn about topics such as:
+Clean Code
+Test-Driven Development
+Design Principles
+Pair Programming
+Continuous Delivery
+
+And much more!
+
+We also like doing katas…
+
+# What are Katas?
+Katas are a form of learning by practice. Katas allow us to experiment practices and techniques in a safe environment, so that we can later use them in the real-world.
+
+We usually do our katas in pairs (or groups). Pair programming maximizes knowledge sharing, focus and quality of work. You can find more kata best practices & pair programming in our [Kata Guide](/kata-guide).
+
+# Learning Guide
 
 :book: Resources to help you master the craft: https://github.com/software-crafters-karachi/learning-guide
 
-## Past Meet-ups
+# Past Meet-ups
 
-#### :electric_plug: 2020.05.30 - SOLID Principles
-
-**Recording:** https://youtu.be/oGCL8eEFAjw
-
-**Kata:** https://github.com/karachi-katas/Racing-Car-Leaderboard-Kata
-
-**Slides:** https://docs.google.com/presentation/d/1KyMSpkbfFmq5X5d1j2pF6jtshjdeeEsp-0xGMU1RA-4
-
-#### :factory: 2020.05.23 - Design Patterns
-
-We started with an initial discussion on design patterns, their advantages & pit-falls.
-
-Teams then picked 1 pattern each and proceeded to breakout rooms to research & implement their respective pattern. A refactoring kata was provided for each pattern.
-
-Finally, teams presented their pattern & kata to the larger group.
-
-**Recording:** https://youtu.be/V4A0rs7MO-w
-
-**Kata:** https://github.com/karachi-katas/refactoring-kata
-
-**Slides:** https://docs.google.com/presentation/d/1EfAvBSQ-DTsUftXQpCv648_rbwAOEGpVsa8emvpbit0
-
-#### :zap: 2020.05.16 - Lightning Talks & Lean Coffee
-
-Lightning talks:
-1. **Effective Listening** by [@hammad096](https://github.com/hammad096)
-2. **TDD** by [@fahadakhan96](https://github.com/fahadakhan96)
-
-#### :space_invader: 2020.05.09 - Code Smells, 'Tell, Don't Ask'
-
-**Recording:** https://youtu.be/j5xkBr2plNI
-
-**Kata:** https://github.com/lamakq/tell-dont-ask-kata
-
-**Slides:** https://docs.google.com/presentation/d/1EfAvBSQ-DTsUftXQpCv648_rbwAOEGpVsa8emvpbit0
-
-#### :woman_astronaut: 2020.05.02 - Refactoring
-
-**Recording:** https://youtu.be/VDN8FIXqFZg
-
-**Kata:** https://github.com/lamakq/Tennis-Refactoring-Kata
-
-**Slides:** https://docs.google.com/presentation/d/1pAmc2hAZi1oCvWLteH3irO09KFPlzWxXXo4Nqp5-1jU
-
-#### :artificial_satellite: 2020.04.25 - TDD, Object Calisthenics
-
-**Kata:** https://github.com/Jozeb/bowling-kata-tdd
-
-**Slides:** https://docs.google.com/presentation/d/1UWcJugHg2OWpmZAfxZ-au8E7mRpTxvXMO7vNR4GUqUE
-
-#### :rocket: 2020.04.18 - Pair-Programming, TDD
-
-**Kata:** https://github.com/Jozeb/tic_tac_toe_kata
+Recordings & resources from our past meet-ups are available [here](/past-meetups)
