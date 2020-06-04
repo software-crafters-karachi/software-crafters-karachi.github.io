@@ -4,7 +4,7 @@
 We are an open community of people learning to write & deliver better software. We believe learning together and helping each other is the fastest way to grow.
 
 # Who can join?
-Everyone involved in any stage of the softwares lifecycle: customers, developers, mentors/coaches...
+Everyone involved in any stage of the software lifecycle: customers, developers, mentors/coaches...
 
 ### We encourage diversity
 Great software can only be delivered with close collaboration of everyone involved at all stages of software development.
@@ -15,7 +15,7 @@ Students to professionals, and everyone in between.
 # How can I join?
 Join our [Facebook group](https://www.facebook.com/groups/570463523588860), and you are in!
 
-The next step is to join us in one of our meet-ups. Watch out for meet-ups on our Facebook page.
+The next step is to join us in one of our **meet-ups**. Watch out for meet-ups on our Facebook page.
 
 # What will I learn?
 We learn about topics such as:
