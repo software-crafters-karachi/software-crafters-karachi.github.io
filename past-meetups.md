@@ -1,6 +1,6 @@
 # Past Meet-ups
 
-## :swimmer: 2020.05.30 - Object Calisthenics
+## :swimmer: 2020.06.06 - Object Calisthenics
 
 **Recording:** [Object Calisthenics - Software Crafters Karachi, Meet-up #8](https://youtu.be/fqeJGEUMgAk)
 
