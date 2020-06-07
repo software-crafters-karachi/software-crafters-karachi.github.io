@@ -1,5 +1,13 @@
 # Past Meet-ups
 
+## :swimmer: 2020.05.30 - Object Calisthenics
+
+**Recording:** [Object Calisthenics - Software Crafters Karachi, Meet-up #8](https://youtu.be/fqeJGEUMgAk)
+
+**Kata:** [Online Shopping Kata](https://github.com/karachi-katas/Online-Shopping-Kata)
+
+**Slides:** [Presentation Meetup#8](https://docs.google.com/presentation/d/1_EtuF1jKuZBveVlNDMcmvlTboc6NlEqGNIeQEw5JyDU/)
+
 ## :electric_plug: 2020.05.30 - SOLID Principles
 
 **Recording:** [SOLID Principles - Software Crafters Karachi, Meet-up #7](https://youtu.be/oGCL8eEFAjw)
