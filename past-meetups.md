@@ -1,5 +1,13 @@
 # Past Meet-ups
 
+## :lollipop: 2020.06.13 - If only there were less IFs
+
+**Recording:** [If only there were less IFs - Software Crafters Karachi, Meet-up #9](https://youtu.be/cjv9M8CP-rU)
+
+**Kata:** [Theatrical Players Refactoring Kata](https://github.com/karachi-katas/Theatrical-Players-Refactoring-Kata)
+
+**Slides:** [Presentation Meetup#9](https://docs.google.com/presentation/d/1EswWDUXzpr2I6kKqNaP5EXK62v9-X20RKnesI-wNSLU)
+
 ## :swimmer: 2020.06.06 - Object Calisthenics
 
 **Recording:** [Object Calisthenics - Software Crafters Karachi, Meet-up #8](https://youtu.be/fqeJGEUMgAk)
