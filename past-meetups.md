@@ -1,5 +1,13 @@
 # Past Meet-ups
 
+## :ghost: 2020.06.20 - All code is guilty...
+
+**Recording:** Coming Soon
+
+**Kata:** [Social Network Kata](https://github.com/karachi-katas/social-network-kata)
+
+**Slides:** [Presentation Meetup#10](https://docs.google.com/presentation/d/1LPxgN3Ts3CJm3oZ554GUBzU218iBaGseIU6LbsC2TrM)
+
 ## :lollipop: 2020.06.13 - If only there were less IFs
 
 **Recording:** [If only there were less IFs - Software Crafters Karachi, Meet-up #9](https://youtu.be/cjv9M8CP-rU)
