@@ -2,7 +2,7 @@
 
 ## :ghost: 2020.06.20 - All code is guilty...
 
-**Recording:** Coming Soon
+**Recording:** [All code is guilty... Software Crafters Karachi, Meet-up #10](https://youtu.be/qStJduHdCz0)
 
 **Kata:** [Social Network Kata](https://github.com/karachi-katas/social-network-kata)
 
