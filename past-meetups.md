@@ -1,6 +1,6 @@
 # Past Meet-ups
 
-## :construction: 2020.07.11 - Good Code, Bad Code
+## :cop: 2020.07.11 - Good Code, Bad Code
 
 Meet-up on the first chapter of Clean Code: Naming.
 
