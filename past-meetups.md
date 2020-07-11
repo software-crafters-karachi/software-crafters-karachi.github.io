@@ -1,5 +1,11 @@
 # Past Meet-ups
 
+## :construction_worker: 2020.07.04 - Refactoring Legacy Code
+
+**Kata:** [SupermarketReceipt Refactoring Kata](https://github.com/karachi-katas/SupermarketReceipt-Refactoring-Kata.git)
+
+**Slides:** [Presentation Meetup#12](https://docs.google.com/presentation/d/1vBAwLscALNsoEemGRip7u7PjcJbtVgStUDpH5NHxXf0)
+
 ## :construction: 2020.06.27 - Working with Legacy Code
 
 **Recording:** [Working with Legacy Code... Software Crafters Karachi, Meet-up #11](https://youtu.be/vxBS1pXYyAw)
