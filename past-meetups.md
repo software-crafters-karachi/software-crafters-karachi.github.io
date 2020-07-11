@@ -1,5 +1,15 @@
 # Past Meet-ups
 
+## :construction: 2020.07.11 - Good Code, Bad Code
+
+Meet-up on the first chapter of Clean Code: Naming.
+
+**Recording:** [Good Code, Bad Code - Software Crafters Karachi, Meet-up #13](https://youtu.be/ytbdnGU_9CQ)
+
+**Kata:** [Clean Code Prime Printer Kata](https://github.com/karachi-katas/cleancode-kata-primeprinter)
+
+**Slides:** [Presentation Meetup#13](https://docs.google.com/presentation/d/1Uto58gP3l-4IZwGValglnE1etsvr_o3ZTD-ml-DKU9U)
+
 ## :construction_worker: 2020.07.04 - Refactoring Legacy Code
 
 **Kata:** [SupermarketReceipt Refactoring Kata](https://github.com/karachi-katas/SupermarketReceipt-Refactoring-Kata.git)
