@@ -1,5 +1,17 @@
 # Past Meet-ups
 
+## :sparkles: 2020.07.18 - Clean Functions
+
+Meet-up on the second chapter of Clean Code: Functions.
+
+**Recording:** [Clean Functions - Software Crafters Karachi, Meet-up #14](https://youtu.be/1JDrHJcce9Y)
+
+**Coding Kata recording from one of the break-outs:** [Tennis Refactoring Kata - Mob Programming](https://youtu.be/dzRtSgCiVOs)
+
+**Kata:** [Tennis Refactoring Kata (Game 2)](https://github.com/karachi-katas/Tennis-Refactoring-Kata)
+
+**Slides:** [Presentation Meetup#14](https://docs.google.com/presentation/d/1BqcVngs54g9BQuNmfBTFYT164hGfftgTfgcULB3X1D0)
+
 ## :cop: 2020.07.11 - Good Code, Bad Code
 
 Meet-up on the first chapter of Clean Code: Naming.
