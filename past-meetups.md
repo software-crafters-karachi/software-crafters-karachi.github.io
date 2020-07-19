@@ -6,7 +6,7 @@ Meet-up on the second chapter of Clean Code: Functions.
 
 **Recording:** [Clean Functions - Software Crafters Karachi, Meet-up #14](https://youtu.be/1JDrHJcce9Y)
 
-**Coding Kata recording from one of the break-outs:** [Tennis Refactoring Kata - Mob Programming](https://youtu.be/dzRtSgCiVOs)
+**Coding Kata recording**: [Tennis Refactoring Kata - Mob Programming](https://youtu.be/dzRtSgCiVOs) (from one of the break-out rooms)
 
 **Kata:** [Tennis Refactoring Kata (Game 2)](https://github.com/karachi-katas/Tennis-Refactoring-Kata)
 
