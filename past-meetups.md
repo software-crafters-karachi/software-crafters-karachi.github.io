@@ -4,7 +4,7 @@
 
 Student's Crafters Meet-up
 
-**Recording:** [Introduction to TDD: Live Demo - Software Crafters Karachi, Meet-up #15](https://youtu.be/1JDrHJcce9Y)
+**Recording:** [Introduction to TDD: Live Demo - Software Crafters Karachi, Meet-up #15](https://youtu.be/fhVNRKKcbLE)
 
 **Kata:** [Greeting Kata](https://github.com/karachi-katas/greeting-kata)
 
