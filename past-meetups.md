@@ -1,5 +1,13 @@
 # Past Meet-ups
 
+## :traffic_light: 2020.07.25 - Introduction to TDD
+
+Student's Crafters Meet-up
+
+**Recording:** [Introduction to TDD: Live Demo - Software Crafters Karachi, Meet-up #15](https://youtu.be/1JDrHJcce9Y)
+
+**Kata:** [Greeting Kata](https://github.com/karachi-katas/greeting-kata)
+
 ## :sparkles: 2020.07.18 - Clean Functions
 
 Meet-up on the second chapter of Clean Code: Functions.
