@@ -1,5 +1,9 @@
 # Past Meet-ups
 
+## :train2: 2020.08.08 - Law of Demeter
+
+**Kata:** [FantasyBattle Kata](https://github.com/karachi-katas/FantasyBattle-Refactoring-Kata)
+
 ## :traffic_light: 2020.07.25 - Introduction to TDD
 
 Student's Crafters Meet-up
