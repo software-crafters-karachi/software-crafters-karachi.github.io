@@ -6,7 +6,7 @@ TDD on a (near) real world project.
 
 **Recording:** [TDD from Scratch: Live Demo - Software Crafters Karachi, Meet-up #18](https://youtu.be/InBW4P0PVvI)
 
-**Kata:** [Filtered Twitter](https://github.com/karachi-katas/our_twitter.git)
+**Kata:** [Filtered Twitter](https://github.com/karachi-katas/our_twitter.git) :star: _- original kata!_
 
 ## :coffee: 2020.08.15 - Lean Coffee
 
