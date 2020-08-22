@@ -1,5 +1,17 @@
 # Past Meet-ups
 
+## :earth_asia: 2020.08.22 - TDD from Scratch
+
+TDD on a (near) real world project.
+
+**Recording:** [TDD from Scratch: Live Demo - Software Crafters Karachi, Meet-up #18](https://youtu.be/InBW4P0PVvI)
+
+**Kata:** [Filtered Twitter](https://github.com/karachi-katas/our_twitter.git)
+
+## :coffee: 2020.08.15 - Lean Coffee
+
+**Board:** [Jamboard](https://jamboard.google.com/d/1v-Tl4EOvJhe276YA1Cb-w42NnDuj7VGOFkjzGpP-oMg)
+
 ## :train2: 2020.08.08 - Law of Demeter
 
 **Kata:** [FantasyBattle Kata](https://github.com/karachi-katas/FantasyBattle-Refactoring-Kata)
