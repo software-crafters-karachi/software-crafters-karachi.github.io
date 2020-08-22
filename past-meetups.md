@@ -10,9 +10,9 @@ TDD on a (near) real world project.
 
 ## :coffee: 2020.08.15 - Lean Coffee
 
-**Recording:** [Lightning Talk on Functional Programming & Java Streams Live Demo](https://youtu.be/SeymOxRoNcU) by [@saubanbinusman](https://github.com/saubanbinusman)
+**Lightning Talk Recording:** [Functional Programming & Live Demo: Java Streams](https://youtu.be/SeymOxRoNcU) by [@saubanbinusman](https://github.com/saubanbinusman)
 
-**Board:** [Jamboard](https://jamboard.google.com/d/1v-Tl4EOvJhe276YA1Cb-w42NnDuj7VGOFkjzGpP-oMg)
+**Board:** [Lean Coffee](https://jamboard.google.com/d/1v-Tl4EOvJhe276YA1Cb-w42NnDuj7VGOFkjzGpP-oMg)
 
 ## :train2: 2020.08.08 - Law of Demeter
 
