@@ -6,9 +6,11 @@ TDD on a (near) real world project.
 
 **Recording:** [TDD from Scratch: Live Demo - Software Crafters Karachi, Meet-up #18](https://youtu.be/InBW4P0PVvI)
 
-**Kata:** [Filtered Twitter](https://github.com/karachi-katas/our_twitter.git) :star: _- original kata!_
+**Kata:** [Filtered Twitter](https://github.com/karachi-katas/our_twitter.git) :star: _original kata!_
 
 ## :coffee: 2020.08.15 - Lean Coffee
+
+**Recording:** [Lightning Talk on Functional Programming & Java Streams Live Demo](https://youtu.be/SeymOxRoNcU) by [@saubanbinusman](https://github.com/saubanbinusman)
 
 **Board:** [Jamboard](https://jamboard.google.com/d/1v-Tl4EOvJhe276YA1Cb-w42NnDuj7VGOFkjzGpP-oMg)
 
