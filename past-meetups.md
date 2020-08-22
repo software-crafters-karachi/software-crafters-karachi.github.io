@@ -16,6 +16,8 @@ TDD on a (near) real world project.
 
 ## :train2: 2020.08.08 - Law of Demeter
 
+A shorter (3h) meet-up where we jumped directly into breakout rooms to do the Kata. We discussed our learnings on LoD at the end.
+
 **Kata:** [FantasyBattle Kata](https://github.com/karachi-katas/FantasyBattle-Refactoring-Kata)
 
 ## :traffic_light: 2020.07.25 - Introduction to TDD
