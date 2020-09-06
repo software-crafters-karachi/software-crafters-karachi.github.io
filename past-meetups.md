@@ -14,7 +14,7 @@ TDD on a (near) real world project.
 
 **Recording:** [TDD from Scratch: Live Demo - Software Crafters Karachi, Meet-up #18](https://youtu.be/InBW4P0PVvI)
 
-**Kata:** [Filtered Twitter](https://github.com/karachi-katas/our_twitter.git) :star: _original kata!_
+**Kata:** [Filtered Twitter](https://github.com/karachi-katas/our_twitter) :star: _original kata!_
 
 ## :coffee: 2020.08.15 - Lean Coffee
 
@@ -60,7 +60,7 @@ Meet-up on the first chapter of Clean Code: Naming.
 
 ## :construction_worker: 2020.07.04 - Refactoring Legacy Code
 
-**Kata:** [SupermarketReceipt Refactoring Kata](https://github.com/karachi-katas/SupermarketReceipt-Refactoring-Kata.git)
+**Kata:** [SupermarketReceipt Refactoring Kata](https://github.com/karachi-katas/SupermarketReceipt-Refactoring-Kata)
 
 **Slides:** [Presentation Meetup#12](https://docs.google.com/presentation/d/1vBAwLscALNsoEemGRip7u7PjcJbtVgStUDpH5NHxXf0)
 
@@ -68,7 +68,7 @@ Meet-up on the first chapter of Clean Code: Naming.
 
 **Recording:** [Working with Legacy Code... Software Crafters Karachi, Meet-up #11](https://youtu.be/vxBS1pXYyAw)
 
-**Kata:** [SupermarketReceipt Refactoring Kata](https://github.com/karachi-katas/SupermarketReceipt-Refactoring-Kata.git)
+**Kata:** [SupermarketReceipt Refactoring Kata](https://github.com/karachi-katas/SupermarketReceipt-Refactoring-Kata)
 
 **Slides:** [Presentation Meetup#11](https://docs.google.com/presentation/d/1jFOgq3NxV26moBOTNdsc_nkNW9Lth_lT-7ubR-5NnpE)
 
