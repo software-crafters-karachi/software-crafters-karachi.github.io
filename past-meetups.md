@@ -1,5 +1,13 @@
 # Past Meet-ups
 
+## :last_quarter_moon_with_face: 2020.09.05 - TDD @ Night
+
+**Recording:** [TDD @ Night - Software Crafters Karachi, Meet-up #19](https://youtu.be/4e3An2J2gqU)
+
+**Kata:** [RGB Computer Shop](https://github.com/karachi-katas/rgb_computer_shop) :star: _original kata!_
+
+**Slides:** [Presentation Meetup#19](https://docs.google.com/presentation/d/12HQzVaSYpTZPOzIzVZdd--0E6jQ-l2omOw885adzJnM)
+
 ## :earth_asia: 2020.08.22 - TDD from Scratch
 
 TDD on a (near) real world project.
