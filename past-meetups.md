@@ -1,6 +1,6 @@
 # Past Meet-ups
 
-## :last_quarter_moon_with_face: 2020.09.05 - Object Calisthenics @ Night
+## :first_quarter_moon: 2020.09.19 - Object Calisthenics @ Night
 
 **Recording:** [Object Calisthenics @ Night - Software Crafters Karachi, Meet-up #20](https://youtu.be/5iwdsc4Blcg)
 
