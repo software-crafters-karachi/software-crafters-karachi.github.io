@@ -1,5 +1,13 @@
 # Past Meet-ups
 
+## :last_quarter_moon_with_face: 2020.09.05 - Object Calisthenics @ Night
+
+**Recording:** [Object Calisthenics @ Night - Software Crafters Karachi, Meet-up #20](https://youtu.be/5iwdsc4Blcg)
+
+**Kata:** [Task List](https://github.com/karachi-katas/task-list)
+
+**Slides:** [Presentation Meetup#20](https://docs.google.com/presentation/d/13LTMAASyTcx8Xr5Ii7_WL6rH6zamkIp_I6-mT_5lECk)
+
 ## :last_quarter_moon_with_face: 2020.09.05 - TDD @ Night
 
 **Recording:** [TDD @ Night - Software Crafters Karachi, Meet-up #19](https://youtu.be/4e3An2J2gqU)
