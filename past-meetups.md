@@ -1,5 +1,13 @@
 # Past Meet-ups
 
+## :jack_o_lantern: 2020.10.03 - Code Smells
+
+**Recording:** [Code Smells - Software Crafters Karachi, Meet-up #21](https://youtu.be/ZdJu7hWhSgs)
+
+**Kata:** [AgileTechPraxis CodeSmells](https://github.com/karachi-katas/CodeSmells)
+
+**Slides:** [Presentation Meetup#21](https://docs.google.com/presentation/d/1sm96VsBEMaz_s262EekA_X0i6OE_odH27My3KvsUh-M)
+
 ## :first_quarter_moon: 2020.09.19 - Object Calisthenics @ Night
 
 **Recording:** [Object Calisthenics @ Night - Software Crafters Karachi, Meet-up #20](https://youtu.be/5iwdsc4Blcg)
