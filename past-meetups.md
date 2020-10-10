@@ -1,5 +1,13 @@
 # Past Meet-ups
 
+## :ambulance: 2020.10.10 - Scalable Architecture
+
+Message Queues, Caches & SQL/NoSQL databases & an Architecture Kata
+
+**Recording:** [Scalable Architecture - Software Crafters Karachi, Meet-up #22](https://youtu.be/Ql9eaIM6Ss8)
+
+**Slides:** [Presentation Meetup#22](https://docs.google.com/presentation/d/1ke9j0-Gex39fwp7E2vNa9nQ_3OsqZmLFGKmcAZxm0lQ)
+
 ## :jack_o_lantern: 2020.10.03 - Code Smells
 
 **Recording:** [Code Smells - Software Crafters Karachi, Meet-up #21](https://youtu.be/ZdJu7hWhSgs)
