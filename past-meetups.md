@@ -2,7 +2,7 @@
 
 ## :ambulance: 2020.10.10 - Scalable Architecture
 
-Message Queues, Caches & SQL/NoSQL databases & an Architecture Kata
+Message Queues, Caches & SQL/NoSQL databases.
 
 **Recording:** [Scalable Architecture - Software Crafters Karachi, Meet-up #22](https://youtu.be/Ql9eaIM6Ss8)
 
