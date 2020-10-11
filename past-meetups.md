@@ -1,10 +1,10 @@
 # Past Meet-ups
 
-## :ambulance: 2020.10.10 - Scalable Architecture
+## :ambulance: 2020.10.10 - Scalable Architecture 101
 
 Message Queues, Caches & SQL/NoSQL databases.
 
-**Recording:** [Scalable Architecture - Software Crafters Karachi, Meet-up #22](https://youtu.be/Ql9eaIM6Ss8)
+**Recording:** [Scalable Architecture 101 - Software Crafters Karachi, Meet-up #22](https://youtu.be/Ql9eaIM6Ss8)
 
 **Architecture Kata:** [Scalable Chat App](https://github.com/karachi-katas/scalable-chat-app-architecture-kata)
 
