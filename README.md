@@ -1,23 +1,21 @@
-> This is a community for those who care and are proud of what they do. For those, regardless how experienced they are, who want to improve and master their craft.
+> The purpose of this community is to help everyone become better software engineers.
+
+
+# How can I join?
+[Join the Facebook group](https://www.facebook.com/groups/570463523588860), and you are in!
+
+# Who can join?
+Everyone related to software engineering
+- Undergraduates
+- Software Engineers
+- Teachers
+- Coaches/Mentors
+- People who want learn about software engineering
 
 # Who are we?
 We are an open community of people learning to write & deliver better software. We believe learning together and helping each other is the fastest way to grow.
 
-# Who can join?
-Everyone involved in any stage of the software lifecycle: customers, developers, mentors/coaches...
-
-### We encourage diversity
-Great software can only be delivered with close collaboration of everyone involved at all stages of software development.
-
-### We encourage people of all levels of experience to join
-Students to professionals, and everyone in between.
-
-# How can I join?
-Join our [Facebook group](https://www.facebook.com/groups/570463523588860), and you are in!
-
-The next step is to join us in one of our **meet-ups**. Watch out for meet-ups on our Facebook page.
-
-# What will I learn?
+# What are the topics of discussion?
 We learn about topics such as:
 
 - Clean Code
@@ -26,22 +24,26 @@ We learn about topics such as:
 - Refactoring
 - Pair Programming
 - Continuous Delivery
+- Database Design
+- Scale and Reliability
+- Monitoring and Alerting
 
 and much more!
 
-We also like doing ***katas***…
+[More Details](https://docs.google.com/document/d/e/2PACX-1vRuCzjqaSj6JGhqLrPzmlQR2q140u3dLXv_YiJMM2-B7lLTjfAFtnq5z8VT1ad3-TuhN8L49uBKZ0Dt/pub#h.s7zng6c9nwie)
 
-# What are Katas?
+# Resources
+
+## 1- Past Meet-ups
+
+Recordings & resources from our past meet-ups are available [here](/past-meetups).
+
+## 2- Learning Guide
+
+:book: We've put together some resources for you to explore: [Learning Guide for Software Crafters](https://github.com/software-crafters-karachi/learning-guide).
+
+## 3- Coding Katas?
 Katas are a form of learning by practice. Katas allow us to experiment practices and techniques in a safe environment, so that we can later use them in the real-world.
 
 We usually do our katas in pairs (or groups). Pair programming maximizes knowledge sharing, focus and quality of work. You can find more kata best practices & pair programming in our [Kata Guide](/kata-guide).
 
-# Resources
-
-## Past Meet-ups
-
-Recordings & resources from our past meet-ups are available [here](/past-meetups).
-
-## Learning Guide
-
-:book: We've put together some resources for you to explore: [Learning Guide for Software Crafters](https://github.com/software-crafters-karachi/learning-guide).
