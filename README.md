@@ -1,20 +1,12 @@
-> The purpose of this community is to share by conducting coding katas, online sessions and posts.
+> To become better engineers by sharing knowledge through coding katas, online sessions and posts.
 
 
 # How can I join?
 [Join the Facebook group](https://www.facebook.com/groups/570463523588860), and you are in!
 
+# Migrating to our new domain!!
+[Software Crafters Pakistan](https://software-crafters-pakistan.notion.site)
 
-# Who can join?
-Everyone related to software engineering
-- Undergraduates
-- Software Engineers
-- Teachers
-- Coaches/Mentors
-- People who want learn about software engineering
-
-# Who are we?
-We are an open community of people learning to write & deliver better software. We believe learning together and helping each other is the fastest way to grow.
 
 # What are the topics of discussion?
 We learn about topics such as:
