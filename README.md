@@ -4,28 +4,10 @@
 # How can I join?
 [Join the Facebook group](https://www.facebook.com/groups/570463523588860), and you are in!
 
-# Migrating to our new domain!!
+# Migrated to our new domain!!
 [Software Crafters Pakistan](https://software-crafters-pakistan.notion.site)
 
-
-# What are the topics of discussion?
-We learn about topics such as:
-
-- Clean Code
-- Test-Driven Development
-- Design Principles
-- Refactoring
-- Pair Programming
-- Continuous Delivery
-- Database Design
-- Scale and Reliability
-- Monitoring and Alerting
-
-and much more!
-
-[More Details](https://docs.google.com/document/d/e/2PACX-1vRuCzjqaSj6JGhqLrPzmlQR2q140u3dLXv_YiJMM2-B7lLTjfAFtnq5z8VT1ad3-TuhN8L49uBKZ0Dt/pub)
-
-# Resources
+# Links
 
 ## 1- Past Meet-ups
 
