@@ -1,11 +1,10 @@
 > To become better engineers by sharing knowledge through coding katas, online sessions and posts.
 
+# Migrated to our new domain!!
+[Software Crafters Pakistan](https://software-crafters-pakistan.notion.site)
 
 # How can I join?
 [Join the Facebook group](https://www.facebook.com/groups/570463523588860), and you are in!
-
-# Migrated to our new domain!!
-[Software Crafters Pakistan](https://software-crafters-pakistan.notion.site)
 
 # Links
 
